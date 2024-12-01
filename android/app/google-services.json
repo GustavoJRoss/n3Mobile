@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831422210685",
+    "project_id": "com.example.n3_mobile",
+    "storage_bucket": "n3mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831422210685:android:e9016fcb6f66f20f728714",
+        "android_client_info": {
+          "package_name": "com.example.n3_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831422210685-1k5cvkofnjs5sgp9p62386jtd9vj4reg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4M3cTuTQ1LRDGwux1y3PTO8BWgvb2eyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831422210685-1k5cvkofnjs5sgp9p62386jtd9vj4reg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
