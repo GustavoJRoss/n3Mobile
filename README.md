@@ -56,5 +56,8 @@ Dentro do projeto execute o comando "flutter_run" para inicializar o arquivo "ma
 # Tela Inicial 
 ![image](https://github.com/user-attachments/assets/073d4ee3-b893-44a9-9525-fb18d184e846)
 
+# Autenticação Firebase
+![image](https://github.com/user-attachments/assets/7ea5faa4-7b93-4752-90c6-f332c81e1c07)
+
 
 
