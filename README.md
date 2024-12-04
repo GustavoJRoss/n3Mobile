@@ -1,6 +1,6 @@
-# Flutter Auth App
+# N3Mobile
 
-Este é um aplicativo Flutter que utiliza autenticação com **GitHub** e **Firebase**.
+Este é um aplicativo Flutter que utiliza autenticação com **Google** e **Firebase**.
 
 ## Integrantes do Grupo
 - Gustavo Ross
